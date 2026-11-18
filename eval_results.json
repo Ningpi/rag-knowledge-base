@@ -1,0 +1,26 @@
+[
+  {
+    "mode": "bm25",
+    "queries": 48,
+    "k": 5,
+    "recall_at_k": 1.0,
+    "mrr_at_20": 0.9583,
+    "misses": []
+  },
+  {
+    "mode": "tfidf",
+    "queries": 48,
+    "k": 5,
+    "recall_at_k": 1.0,
+    "mrr_at_20": 0.9635,
+    "misses": []
+  },
+  {
+    "mode": "hybrid",
+    "queries": 48,
+    "k": 5,
+    "recall_at_k": 1.0,
+    "mrr_at_20": 0.9688,
+    "misses": []
+  }
+]
